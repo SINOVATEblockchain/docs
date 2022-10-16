@@ -32,7 +32,7 @@
 
   
 
-1.7 Make sure to send 3 SIN to the node address (address is generated with keys, ./sin-cli getbalance, must be at least 3 SIN.
+1.7 Make sure to send 50 SIN to the node address (address is generated with keys, ./sin-cli getbalance, must be at least 50 SIN.
 
   
 
