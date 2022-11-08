@@ -1,4 +1,4 @@
-SIN (X25X Algo) Mining Using T-Rex Miner
+# SIN (X25X Algo) Mining Using T-Rex Miner
 
 1-  Download T-Rex
 
@@ -6,17 +6,17 @@ Download the current T-Rex version for your Nvidia graphics card.
 
 Cuda 10 is preferred.
 
-[https://trex-miner.com/download/t-rex-0.19.14-linux-cuda10.0.tar.gz](https://trex-miner.com/download/t-rex-0.19.14-linux-cuda10.0.tar.gz)
+[t-rex-0.19.14-linux-cuda10.0.tar.gz](https://github.com/trexminer/T-Rex/releases/download/0.19.14/t-rex-0.19.14-linux-cuda10.0.tar.gz)
 
-[https://trex-miner.com/download/t-rex-0.19.14-linux-cuda11.1.tar.gz](https://trex-miner.com/download/t-rex-0.19.14-linux-cuda11.1.tar.gz)
+[t-rex-0.19.14-linux-cuda11.1.tar.gz](https://github.com/trexminer/T-Rex/releases/download/0.19.14/t-rex-0.19.14-linux-cuda11.1.tar.gz)
 
-[https://trex-miner.com/download/t-rex-0.19.14-linux-cuda9.2.tar.gz](https://trex-miner.com/download/t-rex-0.19.14-linux-cuda9.2.tar.gz)
+[-rex-0.19.14-linux-cuda9.2.tar.gz](https://github.com/trexminer/T-Rex/releases/download/0.19.14/t-rex-0.19.14-linux-cuda9.2.tar.gz)
 
-[https://trex-miner.com/download/t-rex-0.19.14-win-cuda10.0.zip](https://trex-miner.com/download/t-rex-0.19.14-win-cuda10.0.zip)
+[t-rex-0.19.14-win-cuda10.0.zip](https://github.com/trexminer/T-Rex/releases/download/0.19.14/t-rex-0.19.14-win-cuda10.0.zip)
 
-[https://trex-miner.com/download/t-rex-0.19.14-win-cuda11.1.zip](https://trex-miner.com/download/t-rex-0.19.14-win-cuda11.1.zip)
+[t-rex-0.19.14-win-cuda11.1.zip](https://github.com/trexminer/T-Rex/releases/download/0.19.14/t-rex-0.19.14-win-cuda11.1.zip)
 
-[https://trex-miner.com/download/t-rex-0.19.14-win-cuda9.2.zip](https://trex-miner.com/download/t-rex-0.19.14-win-cuda9.2.zip)
+[t-rex-0.19.14-win-cuda9.2.zip](https://github.com/trexminer/T-Rex/releases/download/0.19.14/t-rex-0.19.14-win-cuda9.2.zip)
 
 
 
