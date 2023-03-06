@@ -17,16 +17,6 @@
 
 - **Proof-of-Work (X25X)**
 - [Whitepaper](https://sinovate.io/x25x.pdf)
-- [GPU Mining Guide](X25X-PoW-GPU-Mining)
-
-- **InfinityNodes (DIN)**
-- [Understanding InfinityNodes](understandinginfinitynodes)
-- [Self-Hosted Installation Guide](din_manual_vps_configuration_setup)
-- [Self-Hosted Troubleshots](din_vps_setup_troubleshoot)
-- [setUP Desktop Guide](inwallet_1click_guide)
-- [setUP Mobile Guide](mobile_wallet_infinitynode_setup)
-- [setUP Migration Guide](din_setup_migration_guide)
-- [setUP Tips and Helps](din_setup_tips_and_help)
 
 - **Proof-of-Stake (PoS4)**
 - [Understanding Staking](what_is_staking)
